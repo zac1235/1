@@ -1,0 +1,7 @@
+﻿  cad-Euler.cpp
+C:\Users\87043\source\repos\cad-Euler\cad-Euler\EularOp.h(196,34): warning C4101: “f2lp_end”: 未引用的局部变量
+C:\Users\87043\source\repos\cad-Euler\cad-Euler\Sweep.h(19,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\87043\source\repos\cad-Euler\cad-Euler\Sweep.h(46,33): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\87043\source\repos\cad-Euler\cad-Euler\Sweep.h(53,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\87043\source\repos\cad-Euler\cad-Euler\Body_Product.h(74,20): warning C4018: “<”: 有符号/无符号不匹配
+  cad-Euler.vcxproj -> C:\Users\87043\source\repos\cad-Euler\Debug\cad-Euler.exe
